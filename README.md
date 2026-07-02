@@ -20,6 +20,6 @@
 - 第11回：[言語を生成する](https://takamichi-lab.github.io/nlp-lecture-keio/2026/11.pdf)
 - 第12回：[言語やラベルを評価する](https://takamichi-lab.github.io/nlp-lecture-keio/2026/12.pdf)
 ### おまけ
-- 第13回：[自然言語処理から音声言語処理へ](https://takamichi-lab.github.io/nlp-lecture-keio/2026/13.pdf)
+- 第13回：自然言語処理から音声言語処理へ (資料無し)
 ### これまでの復習
 - 第14回：[演習２](https://takamichi-lab.github.io/nlp-lecture-keio/2026/14.pdf)
