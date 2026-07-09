@@ -18,7 +18,7 @@
 - 第09回：[言語モデルを事前学習する](https://takamichi-lab.github.io/nlp-lecture-keio/2026/09.pdf)
 - 第10回：[言語モデルを転移学習する](https://takamichi-lab.github.io/nlp-lecture-keio/2026/10.pdf)
 - 第11回：[言語を生成する](https://takamichi-lab.github.io/nlp-lecture-keio/2026/11.pdf)
-- 第12回：[言語やラベルを評価する](https://takamichi-lab.github.io/nlp-lecture-keio/2026/12.pdf)
+- 第12回：[言語やラベルを評価する](https://takamichi-lab.github.io/nlp-lecture-keio/2026/13.pdf)
 ### おまけ
 - 第13回：自然言語処理から音声言語処理へ (資料無し)
 ### これまでの復習
